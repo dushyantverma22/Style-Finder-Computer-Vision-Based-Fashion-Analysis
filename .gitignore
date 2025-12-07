@@ -133,6 +133,7 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
+swift-style-embeddings.pkl
 
 # Environments
 .env
