@@ -62,6 +62,9 @@ python-json-logger>=2.0.0  # JSON logging for better debugging
 # API Documentation
 pydantic>=2.0.0            # Data validation and settings management
 
+
+ipykernel>=6.0.0            # Jupyter kernel support
+
 # ============================================
 # NOTES
 # ============================================
